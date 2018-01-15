@@ -27,7 +27,7 @@
 </tr>
 <tr>
 <td><a align="center" href="https://www.hackerrank.com/challenges/plus-minus">Plus Minus</a></td>
-<td><a align="center" href="Plus%20Minus/PlusMinus.swift">PlusMinus.swift</a></td>
+<td><a align="center" href="PlusMinus/PlusMinus.swift">PlusMinus.swift</a></td>
 </tr>
 <tr>
 <td><a align="center" href="https://www.hackerrank.com/challenges/simple-array-sum">Simple Array Sum</a></td>
