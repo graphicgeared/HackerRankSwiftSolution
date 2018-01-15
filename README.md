@@ -9,19 +9,19 @@
 <th><p align="center">Regex</p></th>
 </tr>
 <tr>
-<td><a align="center" href="/Algorithms/Warm%20Up">Warm Up</a> (10/10)</td>
-<td><a align="center" href="/Data%20Structures/Arrays">Arrays</a> (1/6)</td>
+<td><a align="center" href="/Algorithms/Warm%20Up">Warm Up</a> (0/10)</td>
+<td><a align="center" href="/Data%20Structures/Arrays">Arrays</a> (0/6)</td>
 <td>Fundamentals (0/31)</td>
 <td>Introduction (0/6)</td>
 </tr>
 <tr>
-<td><a align="center" href="/Algorithms/Implementation">Implementation</a> (5/64)</td>
+<td><a align="center" href="/Algorithms/Implementation">Implementation</a> (0/64)</td>
 <td>Linked Lists (0/45)</td>
 <td>Number Theory (0/73)</td>
 <td>Character Classes (0/3)</td>
 </tr>
 <tr>
-<td><a align="center" href="/Algorithms/Strings">Strings</a> (7/45)</td>
+<td><a align="center" href="/Algorithms/Strings">Strings</a> (0/45)</td>
 <td>Trees (0/17)</td>
 <td>Combinatorics (0/54)</td>
 <td>Repititions (0/5)</td>
@@ -34,7 +34,7 @@
 </tr>
 <tr>
 <td>Search (0/25)</td>
-<td><a align="center" href="/Data%20Structures/Stacks">Stacks</a> (1/9)</td>
+<td><a align="center" href="/Data%20Structures/Stacks">Stacks</a> (0/9)</td>
 <td>Geometry (0/30)</td>
 <td>Back References (0/4)</td>
 </tr>
@@ -63,7 +63,7 @@
 <td></td>
 </tr>
 <tr>
-<td><a align="center" href="/Algorithms/Bit%20Manipulation/">Bit Manipulation</a> (1/26)</td>
+<td><a align="center" href="/Algorithms/Bit%20Manipulation/">Bit Manipulation</a> (0/26)</td>
 <td>Trie (0/2)</td>
 <td></td>
 <td></td>
