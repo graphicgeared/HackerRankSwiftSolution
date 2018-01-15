@@ -1,6 +1,4 @@
-# HackerRankSwiftSolution
-<h1 align="center">My Solutions to <a href="https://www.hackerrank.com/dashboard">HackerRank</a> Problems in Swift</h1>
-<h2 align="center">Table of Contents</h2>
+<h1 align="center">My solutions to <a href="https://www.hackerrank.com/dashboard">HackerRank</a> Problems in Swift</h1>
 <table style="width:100%">
 <tr>
 <th><p align="center">Algorithms</p></th>

@@ -1,6 +1,5 @@
 <h1 align="center">Warm Up Algorithm Solutions</h1>
-<h2 align="center">Table of Algorithms</h2>
-<table style="width:100%">
+<table style="width:50%">
 <tr>
 <th><p align="center">Problem</p></th>
 <th><p align="center">Solution</p></th>
