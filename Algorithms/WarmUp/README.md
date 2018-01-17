@@ -6,23 +6,23 @@
 </tr>
 <tr>
 <td><a align="center" href="https://www.hackerrank.com/challenges/solve-me-first">Solve Me First</a></td>
-<td><a align="center" href="Solve%20Me%20First/SolveMeFirst.swift">SolveMeFirst.swift</a></td>
+<td><a align="center" href="SolveMeFirst/SolveMeFirst.swift">SolveMeFirst.swift</a></td>
 </tr>
 <tr>
 <td><a align="center" href="https://www.hackerrank.com/challenges/simple-array-sum">Simple Array Sum</a></td>
-<td><a align="center" href="Simple%20Array%20Sum/SimpleArraySum.swift">SimpleArraySum.swift</a></td>
+<td><a align="center" href="SimpleArraySum/SimpleArraySum.swift">SimpleArraySum.swift</a></td>
 </tr>
 <tr>
 <td><a align="center" href="https://www.hackerrank.com/challenges/compare-the-triplets">Compare The Triplets</a></td>
-<td><a align="center" href="Compare%20The%20Triplets/CompareTheTriplets.swift">CompareTheTriplets.swift</a></td>
+<td><a align="center" href="CompareTheTriplets/CompareTheTriplets.swift">CompareTheTriplets.swift</a></td>
 </tr>
 <tr>
 <td><a align="center" href="https://www.hackerrank.com/challenges/a-very-big-sum">A Very Big Sum</a></td>
-<td><a align="center" href="A%20Very%20Big%20Sum/AVeryBigSum.swift">AVeryBigSum.swift</a></td>
+<td><a align="center" href="AVeryBigSum/AVeryBigSum.swift">AVeryBigSum.swift</a></td>
 </tr>
 <tr>
 <td><a align="center" href="https://www.hackerrank.com/challenges/diagonal-difference">Diagonal Difference</a></td>
-<td><a align="center" href="Diagonal%20Difference/DiagonalDifference.swift">DiagonalDifference.swift</a></td>
+<td><a align="center" href="DiagonalDifference/DiagonalDifference.swift">DiagonalDifference.swift</a></td>
 </tr>
 <td><a align="center" href="https://www.hackerrank.com/challenges/plus-minus">Plus Minus</a></td>
 <td><a align="center" href="PlusMinus/PlusMinus.swift">PlusMinus.swift</a></td>
