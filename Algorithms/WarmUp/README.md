@@ -42,6 +42,6 @@
 <tr>
 <tr>
 <td><a align="center" href="https://www.hackerrank.com/challenges/time-conversion">Time Conversion</a></td>
-<td><a align="center" href="Time%20Conversion/TimeConversion.swift">TimeConversion.swift</a></td>
+<td><a align="center" href="TimeConversion/TimeConversion.swift">TimeConversion.swift</a></td>
 </tr>
 </table>
