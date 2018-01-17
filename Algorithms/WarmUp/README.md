@@ -33,11 +33,11 @@
 </tr>
 <tr>
 <td><a align="center" href="https://www.hackerrank.com/challenges/mini-max-sum">Mini-Max Sum</a></td>
-<td><a align="center" href="Mini-Max%20Sum/MiniMaxSum.swift">MiniMaxSum.swift</a></td>
+<td><a align="center" href="Mini-Max%20Sum/MiniMaxSum.swift">MinMaxSum.swift</a></td>
 </tr>
 <tr>
 <td><a align="center" href="https://www.hackerrank.com/challenges/birthday-cake-candles">Birthday Cake Candles</a></td>
-<td><a align="center" href="Birthday%20Cake%20Candles/BirthdayCakeCandles.swift">BirthdayCakeCandles.swift</a></td>
+<td><a align="center" href="Birthday%20Cake%20Candles/BirthdayCakeCandles.swift">BirthdayCakeCandle.swift</a></td>
 </tr>
 <tr>
 <tr>

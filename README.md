@@ -7,7 +7,7 @@
 <th><p align="center">Regex</p></th>
 </tr>
 <tr>
-<td><a align="center" href="/Algorithms/WarmUp">Warm Up</a> (2/10)</td>
+<td><a align="center" href="/Algorithms/WarmUp">Warm Up</a> (4/10)</td>
 <td><a align="center">Arrays</a> (0/6)</td>
 <td>Fundamentals (0/31)</td>
 <td>Introduction (0/6)</td>
