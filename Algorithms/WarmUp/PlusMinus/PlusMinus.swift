@@ -1,6 +1,6 @@
 //
-//  main.swift
-//  Solution for Plus minus Hackerrank.com
+//  PlusMinus.swift
+//  Solution for PlusMinus Hackerrank.com
 //
 //  Created by Nhan Nguyen on 1/14/18.
 //  Copyright © 2018 Nhan Nguyen. All rights reserved.

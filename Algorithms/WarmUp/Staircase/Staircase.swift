@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  Staircase.swift
 //  Solution for Staircase Hackerrank.com
 //
 //  Created by Nhan Nguyen on 1/15/18.
