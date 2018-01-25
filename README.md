@@ -25,7 +25,7 @@
 <td>Repititions (0/5)</td>
 </tr>
 <tr>
-<td>Sorting (0/19)</td>
+<td><a align="center" href="/Algorithms/Sorting">Sorting</a> (0/19)</td>
 <td>Balanced Trees (0/3)</td>
 <td>Algebra (0/37)</td>
 <td>Grouping and Capturing (0/3)</td>
